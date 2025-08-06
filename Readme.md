@@ -29,3 +29,6 @@ VeritasAI is built with a modern, robust, and scalable technology stack:
 *   **AI Integration**: Google's Genkit for creating and managing AI flows
 *   **Icons**: Lucide React
 *   **Deployment**: Ready for Firebase App Hosting
+
+************************************************************** WORK IN PROGRESS **********************************************************************************************************
+Any collaborators are welcome!!!
